@@ -1,0 +1,448 @@
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:28:05 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:28:05 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\AppData\Local\Temp\testng-eclipse-1647077018\testng-customsuite.xml
+
+21:28:05 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+21:28:08 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+21:28:18 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [78479a0a65df6016db14c54afa38a940, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54753}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54753/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 78479a0a65df6016db14c54afa38a940
+21:28:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@771db12c: 54 ms
+21:28:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3b08f438: 16 ms
+21:28:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@769d513: 16 ms
+21:28:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@213860b8: 0 ms
+21:28:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e4d2696: 15 ms
+21:28:18 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e0f7aad: 0 ms
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:30:01 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:30:01 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\AppData\Local\Temp\testng-eclipse--2111029289\testng-customsuite.xml
+
+21:30:01 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+21:30:04 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+21:30:14 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b39b923a47d9e32e51988477cd1b9182, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54782}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54782/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b39b923a47d9e32e51988477cd1b9182
+21:30:15 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@771db12c: 76 ms
+21:30:15 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3b08f438: 12 ms
+21:30:15 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@769d513: 14 ms
+21:30:15 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@213860b8: 11 ms
+21:30:15 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e4d2696: 8 ms
+21:30:15 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e0f7aad: 0 ms
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:23:10 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:23:10 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\AppData\Local\Temp\testng-eclipse-57473749\testng-customsuite.xml
+
+22:23:10 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+22:23:23 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+22:23:24 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+22:23:25 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+22:23:36 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dac7804428ee3ee818003605c3ca60c0, findElement {using=xpath, value=//button[normalize-space()='Continue']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55242/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dac7804428ee3ee818003605c3ca60c0
+22:23:37 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2d2acd89: 100 ms
+22:23:37 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a0df195: 23 ms
+22:23:37 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@34a0ef00: 16 ms
+22:23:37 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7bbbb6a8: 10 ms
+22:23:37 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@35088e87: 12 ms
+22:23:37 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@486bc9a4: 0 ms
+22:24:24 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\Varsha\AppData\Local\Temp\testng-eclipse-1838015038\testng-customsuite.xml"
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+22:24:25 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:24:25 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\AppData\Local\Temp\testng-eclipse-1838015038\testng-customsuite.xml
+
+22:24:25 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+22:24:59 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+22:25:00 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+22:25:08 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+22:25:19 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [24c9ab7643db67c0143772056317c184, findElement {value=//button[normalize-space()='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55272}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55272/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 24c9ab7643db67c0143772056317c184
+22:25:19 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2d2acd89: 127 ms
+22:25:19 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4a0df195: 28 ms
+22:25:19 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@34a0ef00: 18 ms
+22:25:20 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7bbbb6a8: 11 ms
+22:25:20 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@35088e87: 13 ms
+22:25:20 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@486bc9a4: 0 ms
+22:38:40 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml"
+22:38:40 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+22:38:51 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+22:38:51 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+22:38:55 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+22:39:06 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4e68bf6bf5eb99b69bd9073e6fa889d, findElement {using=xpath, value=//button[normalize-space()='Continue']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55345}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55345/devtoo..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f4e68bf6bf5eb99b69bd9073e6fa889d
+23:14:34 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml"
+23:14:34 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+13:09:05 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml"
+13:09:06 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+13:40:02 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml"
+13:40:03 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+13:41:31 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+13:55:42 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\Varsha\AppData\Local\Temp\testng-eclipse--1532718546\testng-customsuite.xml"
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:55:43 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:55:43 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\AppData\Local\Temp\testng-eclipse--1532718546\testng-customsuite.xml
+
+13:55:43 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+13:55:43 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3276732: 78 ms
+13:55:43 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@741b3bc3: 28 ms
+13:55:43 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@76ba13c: 16 ms
+13:55:43 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1536602f: 9 ms
+13:55:43 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@743cb8e0: 10 ms
+13:55:43 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@c7a975a: 0 ms
+14:02:59 [main] DEBUG TestNG - suiteXmlPath: "C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml"
+14:03:00 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+14:03:26 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+14:08:55 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+14:09:10 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+21:33:20 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+22:51:03 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+22:52:00 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+22:52:43 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+22:53:11 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+23:05:56 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:06:08 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+23:06:08 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+23:06:09 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+23:06:20 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=139.0.7258.129)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e7afecef2a203d904be5d8896778e236, findElement {value=//button[normalize-space()='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.129, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65500}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65500/devtoo..., se:cdpVersion: 139.0.7258.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e7afecef2a203d904be5d8896778e236
+23:06:23 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+23:10:41 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:10:46 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+23:14:57 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:15:02 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+23:15:03 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+23:15:04 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+23:15:15 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=139.0.7258.129)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [67538788f6771ffc91945aef72f5c2a4, findElement {value=//button[normalize-space()='Continue'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.129, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60261}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60261/devtoo..., se:cdpVersion: 139.0.7258.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 67538788f6771ffc91945aef72f5c2a4
+23:16:19 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:16:23 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+23:16:24 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+23:16:24 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+23:16:35 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=139.0.7258.129)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07fe7c5a20b802fce28f18b364d8200d, findElement {using=xpath, value=//button[normalize-space()='Continue']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.129, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59255}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59255/devtoo..., se:cdpVersion: 139.0.7258.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07fe7c5a20b802fce28f18b364d8200d
+23:16:39 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+23:31:35 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\masters.xml
+
+23:32:10 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:32:16 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+23:32:16 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+23:32:18 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+23:32:29 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=139.0.7258.129)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4f6ba95b57e83afe8acd4d4b647e4fb3, findElement {using=xpath, value=//button[normalize-space()='Continue']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.129, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56567}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56567/devtoo..., se:cdpVersion: 139.0.7258.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4f6ba95b57e83afe8acd4d4b647e4fb3
+23:32:36 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+23:36:53 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:37:00 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+23:37:00 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+23:37:02 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+23:37:13 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Continue']"}
+  (Session info: chrome=139.0.7258.129)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3258cdf9a9bd813249d9c0d244f46dfc, findElement {using=xpath, value=//button[normalize-space()='Continue']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.129, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54058}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54058/devtoo..., se:cdpVersion: 139.0.7258.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3258cdf9a9bd813249d9c0d244f46dfc
+23:37:30 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+23:42:29 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:42:36 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+23:42:36 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+23:42:37 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+23:43:01 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dc75ec248dd3a382a95769aa18dfeacf, sendKeysToElement [id, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.129, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62387}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62387/devtoo..., se:cdpVersion: 139.0.7258.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (dc75ec248dd3a382a95769aa18dfeacf)] -> xpath: //input[@id='input-telephone']]
+Session ID: dc75ec248dd3a382a95769aa18dfeacf
+23:43:10 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+23:45:12 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+23:46:14 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+23:46:14 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+23:46:15 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+23:46:32 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d62caa29e0acbe41837e3618d8127a1c, sendKeysToElement [id, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.139, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59697}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59697/devtoo..., se:cdpVersion: 139.0.7258.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d62caa29e0acbe41837e3618d8127a1c)] -> xpath: //input[@id='input-telephone']]
+Session ID: d62caa29e0acbe41837e3618d8127a1c
+23:46:44 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+00:12:10 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+00:16:17 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
+13:44:17 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+13:44:33 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+13:44:33 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+13:44:35 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+13:44:51 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c4ac02fbd347cf4e838ae297f4b3d9a, sendKeysToElement [value, id]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.139, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60266}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60266/devtoo..., se:cdpVersion: 139.0.7258.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1c4ac02fbd347cf4e838ae297f4b3d9a)] -> xpath: //input[@id='input-telephone']]
+Session ID: 1c4ac02fbd347cf4e838ae297f4b3d9a
+13:45:29 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\Varsha\eclipse-workspace\Selenium\OpencartV121\grouping.xml
+
+13:45:34 [main] INFO  TC001_AccountRegistrationPage - *** Started TC001_AccountRegistrationPage ***
+13:45:34 [main] INFO  TC001_AccountRegistrationPage - Clicked on MyAccount link
+13:45:35 [main] INFO  TC001_AccountRegistrationPage - Clicked on Register link
+13:45:50 [main] ERROR TC001_AccountRegistrationPage - Test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c23e39eb8705ff67dd10832167be2172, sendKeysToElement [id, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.139, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\Varsha\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60294}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60294/devtoo..., se:cdpVersion: 139.0.7258.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c23e39eb8705ff67dd10832167be2172)] -> xpath: //input[@id='input-telephone']]
+Session ID: c23e39eb8705ff67dd10832167be2172
+13:45:55 [main] INFO  TC002_LoginTest - ***starting TC002_LoginTest**** 
